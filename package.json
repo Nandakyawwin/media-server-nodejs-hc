@@ -1,0 +1,22 @@
+{
+  "name": "media-server-nodejs-hc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nandakyawwin/media-server-nodejs-hc.git"
+  },
+  "keywords": [
+    "happy-channel"
+  ],
+  "author": "Nanda Kyaw Win",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nandakyawwin/media-server-nodejs-hc/issues"
+  },
+  "homepage": "https://github.com/Nandakyawwin/media-server-nodejs-hc#readme"
+}
